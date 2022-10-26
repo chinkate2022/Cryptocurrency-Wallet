@@ -1,7 +1,7 @@
 # Cryptocurrency-Wallet
 
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![An image shows a wallet with bitcoin.](https://github.com/chinkate2022/Cryptocurrency-Wallet/blob/main/19-4-challenge-image.png)
 
 ### Background
 
